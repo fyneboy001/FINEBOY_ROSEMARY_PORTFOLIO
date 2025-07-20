@@ -141,8 +141,8 @@ const Contact: React.FC<ContactProps> = ({ darkMode }) => {
                 darkMode ? "text-gray-300" : "text-gray-600"
               }`}
             >
-              I'm currently available for Internships and full-time
-              opportunities. Let's discuss how we can bring your ideas to life!
+              I'm currently open to Internship and full-time opportunities.
+              Let's connect and explore how I can help bring your ideas to life.
             </p>
 
             <div className="space-y-4">
